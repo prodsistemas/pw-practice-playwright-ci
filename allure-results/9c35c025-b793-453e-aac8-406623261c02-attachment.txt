@@ -1,0 +1,1 @@
+A snapshot doesn't exist at D:\Curso-Playwright\Udemy\pw-practice-app\tests\visualTesting.spec.ts-snapshots\Radio-buttons-1-chromium-win32.png, writing actual.
